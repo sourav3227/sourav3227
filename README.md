@@ -13,8 +13,7 @@
 
 ###
 
-<h6 align="left">- 🎓 I hold a Bachelor's degree in Computer Science.<br>- 💻 DevOps is not just my profession; it's my passion.<br>- 🚀 I'm constantly exploring new technologies to streamline development and operations.<br>- 🌐 AWS, Linux, and Git are some of my key areas of expertise.<br>- 📚 I believe in open-source and love to contribute to and create projects that can help the community.</h6>
-
+<h6 align="left">- 🎓 I hold a Bachelor's degree in Computer Science.<br>- 🚀 I'm constantly exploring new technologies to streamline development and operations.<br>- 🌐 AWS, Linux, and Git are some of my key areas of expertise.<br>- 📚 I believe in open-source and love to contribute to and create projects that can help the community.</h6>
 ###
 
 <h3 align="left">🛠️Tools Used :</h3>
